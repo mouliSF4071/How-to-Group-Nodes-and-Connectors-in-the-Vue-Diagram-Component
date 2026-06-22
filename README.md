@@ -1,10 +1,10 @@
 # How to Group Nodes and Connectors in the Vue Diagram Component
 
-A quick start Vue project that shows how to group nodes and connectors in the [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-grouping-sample) component. This project includes code snippets to create and update groups dynamically. It also includes code snippets to add annotations to a group and create a nested group.
+A quick start Vue project that shows how to group nodes and connectors in the [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram) component. This project includes code snippets to create and update groups dynamically. It also includes code snippets to add annotations to a group and create a nested group.
 
 Watch the video: Coming soon…
 
-Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/labels
+Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/getting-started
 
 Check out this online example of the Vue Diagram component: https://ej2.syncfusion.com/vue/demos/#/material3/diagram/grouping-and-ordering.html
 
